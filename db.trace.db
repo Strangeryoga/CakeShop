@@ -1,0 +1,9 @@
+2023-12-04 00:30:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION VARCHAR(255)": "'Indulge in the luxurious allure of a black forest cake, masterfully crafted to perfection. Its velvety layers come adorned with... (309)"; SQL statement:
+insert into product (category_id, description, image_name, name, price, weight, id) values (?, ?, ?, ?, ?, ?, ?) [22001-200]
+2023-12-04 00:34:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION VARCHAR(255)": "'Indulge in the luxurious allure of a black forest cake, masterfully crafted to perfection. Its velvety layers come adorned with... (309)"; SQL statement:
+insert into product (category_id, description, image_name, name, price, weight, id) values (?, ?, ?, ?, ?, ?, ?) [22001-200]
+2023-12-04 00:43:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION VARCHAR(255)": "'Get lost in the luxurious taste of our intensely rich chocolate cake. Each bite of this divine dessert is a decadent experience... (262)"; SQL statement:
+insert into product (category_id, description, image_name, name, price, weight, id) values (?, ?, ?, ?, ?, ?, ?) [22001-200]
