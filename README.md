@@ -12,13 +12,13 @@ The Cake Shop application is built on the collaboration of Thymeleaf and Spring 
 * H2 Database: The H2 database is employed for efficient data storage and retrieval, ensuring a smooth and responsive user experience.
 
 # Features
-* Secure Authentication
+* Secure Authentication: 
 The Cake Shop application prioritizes security by implementing a robust authentication system. Users can confidently sign in, safeguarding their personal information and ensuring a secure browsing experience.
 
-* User-Friendly Interface
+* User-Friendly Interface: 
 Thymeleaf's dynamic views contribute to an intuitive user interface, allowing users to effortlessly navigate the application. The seamless integration of Spring Boot ensures a responsive and enjoyable experience.
 
-* Efficient Data Management
+* Efficient Data Management: 
 The application leverages the H2 database for efficient data storage and retrieval. This ensures optimal performance for both users and administrators, enhancing the overall efficiency of the Cake Shop platform.
 
 # Usage
